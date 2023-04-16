@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=vinyeee&fontSize=90&fontColor=ffffff&backgroundColor=8b00ff)
 
 <div align="center">
+  <h5>Hello, I'm vinyeee.<br> I'm studying AI, backend development, and algorithms.</h5><br><br>
   <h5>📚 Tech Stacks 📚</h5>
   <a href="#"><img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat"/></a>
