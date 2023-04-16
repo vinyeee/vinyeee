@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=vinyeee&fontSize=90&fontColor=ffffff&backgroundColor=8b00ff)
 
 <p align="center">
-  #####📚Tech Stacks📚
+  ##### 📚 Tech Stacks 📚<br>
 <a href="#">
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat"/>
 </a>
