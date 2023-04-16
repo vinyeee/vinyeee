@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=vinyeee&fontSize=90&fontColor=ffffff&backgroundColor=8b00ff)
 
-
+<p align="center">
+  #####📚Tech Stacks📚
 <a href="#">
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat"/>
 </a>
@@ -19,6 +20,18 @@
 <a href="#">
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat"/>
 </a>
+ <a href="#">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat"/>
+</a>
+  <a href="#">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat"/>
+</a>
+ <a href="#">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat"/>
+</a>
+  
+</p
+
 <!--
 
 **vinyeee/vinyeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
