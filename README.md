@@ -14,7 +14,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat"/></a>
-
 </div>
 
 <!--
