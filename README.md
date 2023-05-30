@@ -16,6 +16,8 @@
   <a href="#"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat"/></a>
 </div>
 
+![vinyeee's github stats](https://github-readme-stats.vercel.app/api?username=vinyeeeID&show_icons=true)
+[![vinyeee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyeee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/vinyeee)
 <!--
 
 
